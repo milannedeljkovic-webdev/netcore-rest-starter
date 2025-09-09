@@ -69,5 +69,11 @@ dotnet ef database update
 3. Run the API
 dotnet run
 
-
 Visit: https://localhost:5001/swagger
+
+---
+📫 About Me
+
+Backend Developer with strong skills in C#, .NET, SQL optimization, and performance tuning.
+
+
